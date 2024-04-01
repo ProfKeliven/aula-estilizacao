@@ -6,5 +6,9 @@
 2. Instalar as dependencias: no terminal de comando digitar: <br />
    npm install
 
-3. Rodar o código: no terminal de comando digitar: <br />
+3. Confira se o terminal está na pasta certa!<br />
+   Para navegar até a pasta correta digite no terminal de comando:<br />
+     cd aula-estilizacao
+
+4. Rodar o código: no terminal de comando digitar: <br />
    npm run dev
