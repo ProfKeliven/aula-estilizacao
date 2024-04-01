@@ -1,7 +1,6 @@
 import React from 'react';
 import TextBig from './TextBig';
 import Button from './Button';
-//import '../styles/styles.scss';
 
 
 export default function Banner(){
