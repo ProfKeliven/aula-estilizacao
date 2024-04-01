@@ -1,7 +1,7 @@
 # aula-estilizacao
 
 1. Fazer o git clone: no terminal de comando digitar: <br />
-  git clone https://github.com/ProfKeliven/aula-estilizacao.git
+  git clone -b master https://github.com/ProfKeliven/aula-estilizacao.git
 
 2. Instalar as dependencias: no terminal de comando digitar: <br />
    npm install
